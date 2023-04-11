@@ -1,0 +1,3 @@
+classdef CC_Point_Clouds < dynamicprops
+   ...
+end

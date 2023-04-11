@@ -1,0 +1,3 @@
+classdef PointClouds < dynamicprops
+   ...
+end
